@@ -4,4 +4,4 @@
 1.	产品公司的入驻；
 2.	产品上架&流程配置；
 3.	云商务的使用；
-![](yunshangwu-1.png)
+![](images/yunshangwu-1.png)
